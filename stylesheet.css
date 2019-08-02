@@ -1,0 +1,17 @@
+title{
+  color:#02ccba;
+}
+
+body{
+  fontfamily: "Hiragino Kaku Gothic ProN";
+}
+
+a{
+  text-decoration: none;
+}
+
+.headerr{
+  width: 1000;
+  height: 32;
+  background-color: #ccc;
+}
